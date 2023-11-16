@@ -88,7 +88,7 @@ client.on("message", async (message) => {
         await chat.sendSeen();
       });
     }
-  }
+  } 
 });
 
 client.initialize();
